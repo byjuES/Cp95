@@ -1,0 +1,21 @@
+#h1
+{
+    background-color: rgb(119, 221, 255);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#button.b_1
+{
+    color: white;
+}
+
+#button.b_2
+{
+    color: white;
+}
+
+#login_button
+{
+    color: white;
+}
